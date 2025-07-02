@@ -5,5 +5,5 @@
 
 I'm an undergraduate at Yale with experience in software engineering, backend systems, and game development.
 
-- 🎮 Currently a core programmer on *Encore!*, building game logic, interactive maps, and character systems for an upcoming Steam release.
+- 🎮 Currently a core programmer on *Encore!*, building game logic, interactive maps, and affection systems for an upcoming Steam release.
 - 🛠️ Software Engineering Intern at Televiaducto, developing internal tools to automate infrastructure and enhance billing workflows.
